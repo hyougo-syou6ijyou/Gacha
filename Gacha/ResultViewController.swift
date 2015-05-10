@@ -27,14 +27,17 @@ class ResultViewController: UIViewController {
             monsterImageView.image = UIImage(named: "monster010")
             backgroundImageView.image = UIImage(named: "bg_gold")
             label.text = "激レアモンスター"
+            label.textColor = UIColor.orangeColor()
         }else if number > 7{
             monsterImageView.image = UIImage(named: "monster006")
             backgroundImageView.image = UIImage(named: "bg_red")
             label.text = "レアモンスター"
+            label.textColor = UIColor.purpleColor()
         }else{
             monsterImageView.image = UIImage(named: "monster003")
             backgroundImageView.image = UIImage(named: "bg_blue")
             label.text = "普通のモンスター"
+            label.textColor = UIColor.blueColor()
         }
     }
 
