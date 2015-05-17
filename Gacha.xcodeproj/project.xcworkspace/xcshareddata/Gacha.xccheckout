@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9047F789-7051-4BDE-898F-342C5D2A5E0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Gacha</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>535FA92CE8C773283221EC25D6A7FEED793BF43F</key>
+		<string>https://github.com/hyougo-syou6ijyou/Gacha.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Gacha.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>535FA92CE8C773283221EC25D6A7FEED793BF43F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hyougo-syou6ijyou/Gacha.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>535FA92CE8C773283221EC25D6A7FEED793BF43F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>535FA92CE8C773283221EC25D6A7FEED793BF43F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Gacha</string>
+		</dict>
+	</array>
+</dict>
+</plist>
